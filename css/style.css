@@ -1,0 +1,59 @@
+
+/*navigation*/
+
+.inline-block ul li{
+    display: inline-block;
+    vertical-align: top;
+}
+header {background-color: #ffffff;
+    padding: 25px;
+    vertical-align: top;
+    padding: 25px;
+    
+    }
+
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav{
+    width: 73%;
+    padding: 1%;
+
+}
+
+.top-menu {
+    width: 50%;
+    margin-left: auto;
+}
+
+/*hero image*/
+
+.heroImg {
+    width: 40vw;
+    float: right;
+    height: 700px;
+    padding: 25px;
+
+}
+img{width: 100%;}
+
+.content .description {
+    
+    width: 55vw;
+    float: left;
+}
+/*footer*/
+
+footer {background-color: #373738;
+padding: 25px;
+vertical-align: top;
+padding: 25px;
+clear: both;
+}
+.footer ul li {display: inline-block;
+    color: white;
+}
+
